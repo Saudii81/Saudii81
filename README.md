@@ -43,9 +43,6 @@ Feel free to connect or collaborate — I’m always open to learning and buildi
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-## Hi there 👋
-
 <!--
 **Saudii81/Saudii81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
