@@ -9,8 +9,8 @@ I'm a passionate software developer focused on building solutions with Python, d
 
 - 🔭 I’m currently working on: Machine Learning apps and Python-based automation
 - 🌱 Learning: Django, REST APIs, GitHub Actions
-- 📫 Reach me: saudii81@example.com *(replace with your actual contact)*
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com) *(optional)*
+- 📫 Reach me: isaudatu81@gmail.com
+- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
 - 📝 [My Resume](#) *(optional)*
 
 ---
