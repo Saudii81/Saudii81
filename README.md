@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pydev (Saudii)
 
-🎯 **Aspiring Python Developer** | 🧠 AI/ML Engineer | 🌐 Tech Explorer
+🎯 **Passionate Python Developer** | 🧠 AI/ML Engineer | 🌐 Tech Explorer | 💻 Frontend Developer | Problem Solver
 
 ---
 
@@ -8,10 +8,10 @@
 I'm a passionate software developer focused on building solutions with Python, data analysis, and web technologies. I enjoy solving real-world problems using code, exploring machine learning applications, and contributing to open-source projects.
 
 - 🔭 I’m currently working on: Machine Learning apps and Python-based automation
-- 🌱 Learning: Django, REST APIs, GitHub Actions
+- 🌱 Learning: Django, REST APIs, AI/ML, GitHub Actions
 - 📫 Reach me: isaudatu81@gmail.com
 - 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- 📝 [My Resume](#) *(optional)*
+- 📝 [My Resume](#) 
 
 ---
 
@@ -49,8 +49,8 @@ I'm a passionate software developer focused on building solutions with Python, d
 Here are a few things I’ve built:
 
 - 🐍 [Python_Basics-Apps](https://github.com/Saudii81/Python_Basics-Apps) – Beginner-level Python applications for learning
-- 📚 [django_lms ](#) – Django-based library system for secondary schools *(Upload this if not yet public)*
-- 🔍 [Loan Eligibility Predictor](#) – A machine learning model that predicts loan approval *(Coming Soon)*
+- 📚 [django_lms ](#) – Django-based library system for secondary schools
+- 🔍 [ML-Stock-Price-Prediction-System ](#) – A machine learning model that predicts loan approval
 
 ---
 
