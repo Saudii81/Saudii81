@@ -27,6 +27,8 @@ I'm a passionate software developer focused on building solutions with Python, d
 ![LLMs](https://img.shields.io/badge/LLMs-8E24AA?style=flat&logo=openai&logoColor=white)
 ![GPT](https://img.shields.io/badge/GPT-4B0082?style=flat&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -40,7 +42,7 @@ I'm a passionate software developer focused on building solutions with Python, d
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-
+ 
 ---
 
 ### 📂 Featured Projects
