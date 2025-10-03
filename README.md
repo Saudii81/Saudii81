@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pydev (Saudii)
 
-🎯 **Passionate Python Developer** | 🧠 AI/ML Engineer | 🌐 Tech Explorer | 💻 Frontend Developer | Problem Solver
+🎯 **A Passionate Python Developer** | 🧠 AI/ML Engineer | 🌐 Tech Explorer | 💻 Frontend Developer | Problem Solver
 
 ---
 
