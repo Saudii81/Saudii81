@@ -27,7 +27,7 @@ I'm a passionate software developer focused on building solutions with Python, d
 Here are a few things I’ve built:
 
 - 🐍 [Python_Basics-Apps](https://github.com/Saudii81/Python_Basics-Apps) – Beginner-level Python applications for learning
-- 📚 [E-Library System](#) – Django-based library system for secondary schools *(Upload this if not yet public)*
+- 📚 [django_lms ](#) – Django-based library system for secondary schools *(Upload this if not yet public)*
 - 🔍 [Loan Eligibility Predictor](#) – A machine learning model that predicts loan approval *(Coming Soon)*
 
 ---
