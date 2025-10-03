@@ -50,7 +50,7 @@ Here are a few things I’ve built:
 
 - 🐍 [Python_Basics-Apps](https://github.com/Saudii81/Python_Basics-Apps) – Beginner-level Python applications for learning
 - 📚 [django_lms ](#) – Django-based library system for secondary schools
-- 🔍 [ML-Stock-Price-Prediction-System ](#) – A machine learning model that predicts loan approval
+- 🔍 [ML-Stock-Price-Prediction-System ](#) – A machine learning model for stock price prediction using open source dataset. 
 
 ---
 
