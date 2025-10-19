@@ -10,7 +10,7 @@ I'm a passionate software developer focused on building solutions with Python, d
 - 🔭 I’m currently working on: Machine Learning apps and Python-based automation
 - 🌱 Learning: Django, REST APIs, AI/ML, GitHub Actions
 - 📫 Reach me: isaudatu81@gmail.com
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- 🌐 Portfolio: [myportfolio.com](https://yourportfolio.com)
 - 📝 [My Resume](#) 
 
 ---
